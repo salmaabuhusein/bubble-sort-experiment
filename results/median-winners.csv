@@ -1,0 +1,17 @@
+array_size,distribution,algorithm,median_ns
+100,NEARLY_SORTED,BubbleSortWhileNeeded,1507.3955
+100,RANDOM,BubbleSortWhileNeeded,7334.3125
+100,REVERSE_SORTED,BubbleSortWhileNeeded,10715.9995
+100,SORTED,BubbleSortUntilNoChange,83.6875
+500,NEARLY_SORTED,BubbleSortWhileNeeded,100647.09
+500,RANDOM,BubbleSortWhileNeeded,182725.84
+500,REVERSE_SORTED,BubbleSortWhileNeeded,270677.5
+500,SORTED,BubbleSortUntilNoChange,437.90999999999997
+1000,NEARLY_SORTED,BubbleSortWhileNeeded,363245.825
+1000,RANDOM,BubbleSortWhileNeeded,749923.975
+1000,REVERSE_SORTED,BubbleSortWhileNeeded,1025853.125
+1000,SORTED,BubbleSortWhileNeeded,858.325
+2000,NEARLY_SORTED,BubbleSortWhileNeeded,1431025.0
+2000,RANDOM,BubbleSortWhileNeeded,3002641.7
+2000,REVERSE_SORTED,BubbleSortWhileNeeded,4296683.3
+2000,SORTED,BubbleSortUntilNoChange,1725.0
